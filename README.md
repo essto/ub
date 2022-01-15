@@ -1,2 +1,2 @@
 # ub
-ublock list
+uBlock lists
